@@ -31,6 +31,8 @@ body {
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
+  font-family: proxima-nova;
+  font-size: 13px;
 }
 
 .nav-bar-content1>img {
