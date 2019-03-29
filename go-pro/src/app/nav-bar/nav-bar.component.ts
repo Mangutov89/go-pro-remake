@@ -1,10 +1,15 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'nav-bar',
+  selector: 'app-nav-bar',
   templateUrl: './nav-bar.component.html',
   styleUrls: ['./nav-bar.component.css']
 })
-export class AppComponent {
-  title = 'app';
+export class NavBarComponent implements OnInit {
+
+  constructor() { }
+
+  ngOnInit() {
+  }
+
 }

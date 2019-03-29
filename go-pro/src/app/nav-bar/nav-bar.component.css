@@ -12,4 +12,6 @@ body {
   margin-left: auto;
   flex-direction: row;
   align-items: center;
+  background-color: #333333;
+  color: white;
 }
