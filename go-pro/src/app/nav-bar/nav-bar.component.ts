@@ -6,7 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./nav-bar.component.css']
 })
 export class NavBarComponent {
-  heading = 'go-pro';
   constructor() { }
 
   ngOnInit() {

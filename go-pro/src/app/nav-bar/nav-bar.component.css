@@ -5,14 +5,28 @@
 body {
   width: 100%;
 }
-
+.main-nav {
+  background-color: #333333;
+  height: 80px;
+}
 #nav-bar {
   display: flex;
+  flex-direction: row;
   justify-content: space-around;
   width: 90%;
   margin: auto;
-  flex-direction: row;
   align-items: center;
-  background-color: #333333;
   color: white;
+}
+
+.nav-bar-sub-content>a {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-bar-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
 }
