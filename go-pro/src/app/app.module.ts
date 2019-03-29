@@ -7,6 +7,7 @@ import { NavBarComponent } from '../app/nav-bar/nav-bar.component';
 import { NavBar2Component } from './nav-bar2/nav-bar2.component';
 import { MainVideoComponent } from './main-video/main-video.component';
 import { Content1Component } from './content1/content1.component';
+import { FooterComponent } from './footer/footer.component';
 
 
 
@@ -16,7 +17,8 @@ import { Content1Component } from './content1/content1.component';
     NavBarComponent,
     NavBar2Component,
     MainVideoComponent,
-    Content1Component
+    Content1Component,
+    FooterComponent
   ],
   imports: [
     BrowserModule
