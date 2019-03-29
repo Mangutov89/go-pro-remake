@@ -1,0 +1,7 @@
+#nav-bar2 {
+  background-color: #03bffe;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
