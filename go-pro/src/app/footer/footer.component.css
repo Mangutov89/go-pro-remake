@@ -24,3 +24,8 @@
   color: #a4a5a5;
   font-size: 12px;
 }
+
+button {
+  background-color: #03bffe;
+  color: white;
+}
