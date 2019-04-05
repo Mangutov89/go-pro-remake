@@ -42,3 +42,7 @@ input {
   height: 45px;
   width: 270px;
 }
+
+hr {
+  width: 90%;
+}

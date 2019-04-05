@@ -79,3 +79,15 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
 }
+
+.left-arrow {
+  padding-left: 200px;
+}
+
+.right-arrow {
+  padding-right: 200px;
+}
+
+a {
+  color: white;
+}
