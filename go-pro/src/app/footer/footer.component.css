@@ -28,5 +28,10 @@
 button {
   background-color: #03bffe;
   color: white;
-  padding: 90px 40px;
+  padding: 15px 65px;
+}
+
+input {
+  height: 45px;
+  width: 270px;
 }
