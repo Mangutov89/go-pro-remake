@@ -21,6 +21,8 @@ body {
   color: white;
   background-color: #333333;
   z-index: 1;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
 }
 
 .nav-bar-sub-content>a {
