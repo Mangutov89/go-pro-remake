@@ -24,7 +24,9 @@ body {
   background-color: #333333;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
+  padding: 25px 20px 20px 10px;
 }
+
 
 .nav-bar-sub-content>a {
   text-decoration: none;
