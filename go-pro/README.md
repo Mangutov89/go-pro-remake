@@ -8,23 +8,6 @@
 
 _This is a webpage remake of the website <a href="www.gopro.com">Go Pro</a> in angular and deployed with firebase._
 
-## Specification
-* _This program will take in a users symptom and find doctors in Portland that can treat that symptom._
-* _Program will let users enter also a doctors last name to search for in the Portland area._
-* _The inputs will list the doctors match the search criteria._
-* _Takes user input for cold symptom._
-    * _Example Input: cold._
-    * _Example Output: Name: Melanie Plaut
-                             Street: 3550 N Interstate Ave
-                             Portland, OR 97227
-                             Phone Number: 5033316142_
-* _Takes user input for smith last name input._
-    * _Example Input: smith._
-    * _Example Output: Name: Eli Klovee-Smith
-                             Street: 10123 SE Market St
-                             Portland, OR 97216
-                             Phone Number: 5032512500
-
 ## Setup/Installation Requirements
 
 * _Clone this repository_
@@ -32,9 +15,18 @@ _This is a webpage remake of the website <a href="www.gopro.com">Go Pro</a> in a
 * _Run the command: `$ ng build` to build the project. The build artifacts will be stored in the dist/ directory._
 * _Run the command: `$ ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files._
 
-## Known Bugs
+## Current Features
 
-_No known bugs_
+* _Use of different components._
+* _Reusable nav-bar and footer._
+
+## Planned Features
+
+* _Being able to move from page to page thru routing._
+* _Have the gopro picture on front page have other image layer on top of it with z-index._
+* _Go to the products page and rearrange items based on different search parameters._
+* _Add authentication so that people can save products under their name._
+
 
 ## Support and contact details
 
